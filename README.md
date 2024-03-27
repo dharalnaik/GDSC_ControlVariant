@@ -36,5 +36,6 @@ Users will be able to perform various operations such as CRUD - Create, Read, Up
 2. "database.py" is the supporting file with the code for connection between FastAPI(Python) and Postresql(DBMS).
 3. "models.py" is another supporting file with the code for schemas of the database.
 4. "ControlVariant.pdf" is the documentation file for the entire project with ThunderClient output screenshots to support the understanding of the project.
-5. For loading tasks from a supporting text file "file1.txt" either copy and paste the file path or just enter the file name if both the files are in same folders.
-6. Also, after loading the tasks, please note to use the SAVE option(from the menu Choice-6), otherwise the tasks loaded won't be saved in the main text file "task_data.txt".
+5. Here is the drive link to access the documentation file - https://drive.google.com/file/d/131FNSFr1hVicbCRt3fNqOmeGBBsTK-PO/view?usp=sharing
+
+**Thank you!**
