@@ -1,4 +1,4 @@
-# GDSC_ControlVariant
+# ControlVariant
 
 A control variant management API created with python, as a task for technical club recruitments.
 
