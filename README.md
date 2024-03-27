@@ -15,7 +15,8 @@ Users will be able to perform various operations such as CRUD - Create, Read, Up
     - POST-2 To add product and its variants to the database.
     - POST-3 To add variants of an existing product to the database.
       
-      
+
+
     - GET-1 To read data from the database. Enter product name, and all variants of it will be displayed.
 
 
