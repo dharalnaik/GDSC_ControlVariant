@@ -11,7 +11,7 @@ Users will be able to perform various operations such as CRUD - Create, Read, Up
 1. Users will have to use different API endpoints to perform different operations.
 2. There are total of 9 endpoints, consisting of 3-POST, 1-GET, 2-PUT, 3-DELETE requests.
 3. Purpose of each request is as follows :-
-    -     POST-1 To add product name to the database.
+    - POST-1 To add product name to the database.
     - POST-2 To add product and its variants to the database.
     - POST-3 To add variants of an existing product to the database.
       
