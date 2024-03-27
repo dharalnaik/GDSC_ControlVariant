@@ -5,6 +5,7 @@ A control variant management API created with python, as a task for technical cl
 **Description:**
 
 Users will be able to perform various operations such as CRUD - Create, Read, Update, Delete product and its variant data from the database. 
+
 The languages used are - For API : FastAPI(Python), and For DBMS: Postgresql.
 
 **Requirements:**
