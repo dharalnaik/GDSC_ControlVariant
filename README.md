@@ -1,6 +1,6 @@
-# ControlVariant
+# Variant Control
 
-A control variant management API created with python, as a task for technical club recruitments.
+A variant control management system API created with python, as a task for technical club recruitments.
 
 **Description:**
 
