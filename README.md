@@ -38,6 +38,6 @@ The languages used are - For API : FastAPI(Python), and For DBMS: Postgresql.
 2. "database.py" is the supporting file with the code for connection between FastAPI(Python) and Postresql(DBMS).
 3. "models.py" is another supporting file with the code for schemas of the database.
 4. "VariantControl.pdf" is the documentation file for the entire project with ThunderClient output screenshots to support the understanding of the project.
-5. Here is the drive link to access the documentation file - https://drive.google.com/file/d/131FNSFr1hVicbCRt3fNqOmeGBBsTK-PO/view?usp=sharing
+5. Here is the drive link to access the documentation file - https://drive.google.com/file/d/1DTlDyWCZc2_B3u9rhlvnfW1ljZq9_c6c/view?usp=sharing
 
 **Thank you!**
